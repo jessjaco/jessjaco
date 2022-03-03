@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Jesse Anderson, a Geospatial Data Scientist in Flagstaff, Arizona.
+
 
 <!--
 **jessjaco/jessjaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
