@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm Jesse Anderson, a Geospatial Data Scientist in Flagstaff, Arizona.
+###
+I'm Jesse Anderson, a Geospatial Data Scientist in Flagstaff, Arizona. Learn about me at [my website](https://numbersandstrings.com) or check out some of my repos here.
 
 
 <!--
